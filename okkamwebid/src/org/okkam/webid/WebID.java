@@ -1,4 +1,4 @@
-package okkam.webid.org;
+package org.okkam.webid;
 
 import java.io.IOException;
 import java.math.BigInteger;
