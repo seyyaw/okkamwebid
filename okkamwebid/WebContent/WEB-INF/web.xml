@@ -13,7 +13,7 @@
     <description></description>
     <display-name>WebID</display-name>
     <servlet-name>WebID</servlet-name>
-    <servlet-class>okkam.webid.org.WebID</servlet-class>
+    <servlet-class>org.okkam.webid.controller.WebID</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>WebID</servlet-name>
